@@ -23,7 +23,7 @@ install:
   
 # command to run tests
 script: 
-  - sh scrip_prueba.sh
+  - sh script_prueba.sh
 
   
   
